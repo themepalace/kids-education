@@ -1,0 +1,26 @@
+/*--------------- BACKGROUND COLORS ----------------------*/
+.btn-blue,
+.backtotop {
+    background-color: #00ADE3;
+}
+
+/*--------------- END BACKGROUND COLORS ----------------------*/
+
+
+/*--------------- TEXT COLORS ----------------------*/
+#secondary ul li a:hover, 
+.site-footer ul li a:hover, 
+#secondary ul li:hover:before, 
+.site-footer ul li:hover:before, 
+#contact-address .address-block small a:hover, 
+.blog-title a:hover,
+.site-footer .widget .address-block a:hover,
+time:hover, 
+article .entry-title a:hover, 
+.comment-meta .url:hover,
+.widget_archive > ul > li:hover,
+.widget_categories > ul > li:hover {
+    color: #00ADE3;
+}
+
+/*--------------- END TEXT COLORS ----------------------*/
